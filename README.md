@@ -8,3 +8,4 @@ Badges created for personal use
 #### JavaScript ---->[![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=black&logo=javascript&logoColor=yellow "JavaScript")](https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript")
 
 #### BEM --------->[![BEM](https://img.shields.io/static/v1?label=&message=BEM%20Methodology&color=lightgrey&logo=bem&logoColor=black "BEM")](https://en.bem.info/methodology/ "BEM")
+-------
